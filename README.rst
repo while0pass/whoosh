@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/whoosh-community/whoosh.svg?branch=master)](https://travis-ci.org/whoosh-community/whoosh)
+|BuildStatus|_
 
 About Whoosh
 ============
@@ -45,7 +45,7 @@ or ``pip`` to download and install Whoosh automatically::
 
     $ easy_install Whoosh
 
-    or
+or::
 
     $ pip install Whoosh
 
@@ -68,3 +68,5 @@ You can check out the latest version of the source code using Mercurial::
 
     hg clone http://bitbucket.org/mchaput/whoosh
 
+.. |BuildStatus| image:: https://travis-ci.org/whoosh-community/whoosh.svg?branch=master
+.. _BuildStatus: https://travis-ci.org/whoosh-community/whoosh
