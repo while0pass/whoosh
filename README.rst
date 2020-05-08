@@ -1,5 +1,7 @@
 |BuildStatus|_
 
+.. include:: docs/source/intro.rst
+
 About Whoosh
 ============
 
